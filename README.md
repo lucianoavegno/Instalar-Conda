@@ -1,4 +1,4 @@
-# Instalar-Conda
+# Instalar-Conda (Curso de Optimización)
 
 
 Entrar a la página https://www.anaconda.com/download/ y descargar la versión correspondiente al sistema operativo de tu computador.
